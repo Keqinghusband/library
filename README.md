@@ -19,3 +19,11 @@ for example:
 }
 ~~~
 部分内容采用c++、txt格式编写。
+~~~c++
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    cout<<"hello world!";
+    return 0;
+}
+~~~
